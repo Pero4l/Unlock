@@ -26,7 +26,7 @@ const router = useRouter()
 
       </div>
 
-      <Image className="px-2" src={image} alt="" />
+      <Image className="px-2 md:w-full" src={image} alt="" />
 
       
       <div className="p-3 font-mono">
