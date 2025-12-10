@@ -35,7 +35,7 @@ export default function Home() {
       <div className="p-3 font-mono">
         <h1 className="text-center text-xl text-white pb-5 font-serif">Welcome Mr Heinz and Mrs Karianne</h1>
 
-        <p>To unlock your blockchain you'll have to pay the sum of $3000 worth of Ethereum(ETH) or USDT(TRC20) to our company wallet address. When the payment is done successfully, then click on the <em><b className="underline">Payment completed button below</b></em> and then send the transaction screenshot to our whatsapp channel for comfirmation.</p>
+        <p>To unlock your blockchain you'll have to pay the sum of $3000 worth of <span className="text-gray-400">Ethereum(ETH)</span> or <span className="text-green-300">USDT(TRC20)</span> to our company wallet address. When the payment is done successfully, then click on the <em><b className="underline">Payment completed button below</b></em> and then send the transaction screenshot to our whatsapp channel for comfirmation.</p>
 
         <p>When we comfirm your payment then your withdrawal of $12,000 will be sent to the wallet address you provide.</p>
         <p className="pt-3"><em>Thank you so much for choosing Apex Investment Management as your number one investment platform.</em></p>
